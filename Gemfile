@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'foundation-rails'
 gem 'gibbon'
 gem 'google_drive'
+gem 'google-api-client', '~> 0.8.4'
 gem 'high_voltage'
 gem 'simple_form'
 group :development, :test do
